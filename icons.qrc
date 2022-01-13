@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>vectors/travel.png</file>
+    <file>vectors/suitcase.png</file>
+    <file>vectors/travelBag.jpg</file>
+    <file>vectors/shoppingBag.png</file>
+    <file>vectors/bookIcon.png</file>
+    <file>vectors/workVector.png</file>
+    <file>vectors/calendarVector.png</file>
+    <file>vectors/shoopingVector2.png</file>
+    <file>vectors/shoppingVector.jpg</file>
+  </qresource>
+</RCC>
